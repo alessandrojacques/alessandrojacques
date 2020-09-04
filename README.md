@@ -4,8 +4,7 @@
 
 * Estou focando meus estudos e projetos em Javascript e Java.
 
- Apaixonado por tecnologia.
-
+Apaixonado por tecnologia.
 Gosto de trabalhar em equipe, aprender algo novo, e contribuir com a comunidade Dev.
 <!--
 **alessandrojacques/alessandrojacques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
